@@ -26,23 +26,10 @@ portfolio/
 
 ---
 
-## 📷 Preview
-
-![Portfolio Screenshot](../assets/portfolio-preview.png)
-
----
-
 ## 🧰 Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
 - JavaScript (DOM, Intersection Observer API)
-
----
-
-## 🧑‍💻 Author
-
-**Rahul Godaba**  
-[LinkedIn](https://linkedin.com/in/rahulgodaba)
 
 ---
