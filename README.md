@@ -24,14 +24,6 @@ portfolio/
 └── script.js
 
 
-
----
-
-## 🚀 Demo
-
-You can view the live project here:  
-👉 *[Add GitHub Pages Link]*
-
 ---
 
 ## 📷 Preview
